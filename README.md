@@ -10,4 +10,4 @@ with logarithmic time scale.
 
 * Run `diff_rxtx.plt` with Gnuplot. Its window grabs focus every second so it can be annoying.
 
-![Example plot](example.png)
+![Example plot](example.gif)
